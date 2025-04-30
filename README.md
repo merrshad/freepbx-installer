@@ -24,6 +24,7 @@
    chmod +x install_freepbx.sh
 
 then run the script : 
+
    sudo ./install_freepbx.sh
 
 
